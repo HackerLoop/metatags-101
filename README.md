@@ -9,7 +9,7 @@ In order to easily handle this routine on every project, we gather all the right
 ## Social networks supported
 
 ### Facebook
-'''html
+'''
 	<meta property="og:title" content="Title Here" />
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content="http://www.example.com/" />
@@ -19,7 +19,7 @@ In order to easily handle this routine on every project, we gather all the right
 	<meta property="fb:admins" content="Facebook numeric ID" />
 '''
 ### Twitter
-'''html
+'''
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@publisher_handle">
 	<meta name="twitter:title" content="Page Title">
