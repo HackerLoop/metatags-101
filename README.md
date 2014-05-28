@@ -6,7 +6,11 @@ When you are sharing an url to social networks, they will find the social inform
 
 In order to easily handle this routine on every project, we gather all the right metatags on this repository.
 
-## Social networks supported
+### Basics
+```
+	<title>Page Title. Maximum length 60-70 characters</title>
+	<meta name="description" content="Page description. No longer than 155 characters." />
+```
 
 ### Facebook
 ```
@@ -40,4 +44,4 @@ In order to easily handle this routine on every project, we gather all the right
 ```
 	<link rel="author" href="https://plus.google.com/[Google+_Profile]/posts"/>
 	<link rel="publisher" href="https://plus.google.com/[Google+_Page_Profile]"/>
-```
+``
