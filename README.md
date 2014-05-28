@@ -9,7 +9,7 @@ In order to easily handle this routine on every project, we gather all the right
 ## Social networks supported
 
 ### Facebook
-'''
+```
 	<meta property="og:title" content="Title Here" />
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content="http://www.example.com/" />
@@ -17,7 +17,8 @@ In order to easily handle this routine on every project, we gather all the right
 	<meta property="og:description" content="Description Here" />
 	<meta property="og:site_name" content="Site Name" />
 	<meta property="fb:admins" content="Facebook numeric ID" />
-'''
+```
+
 ### Twitter
 ```
 	<meta name="twitter:card" content="summary_large_image">
@@ -28,19 +29,15 @@ In order to easily handle this routine on every project, we gather all the right
 	<meta name="twitter:image:src" content="http://www.example.com/image.html">
 ```
 
-### Pinterest
-'''html
-
-'''
-
-### Google +
-'''html
-
-'''
-    
+### Google + / Pinterest
+```
+	<meta itemprop="name" content="The Name or Title Here">
+	<meta itemprop="description" content="This is the page description">
+	<meta itemprop="image" content="http://www.example.com/image.jpg">
+```    
 
 ### Google authorship
-'''html
+```
 	<link rel="author" href="https://plus.google.com/[Google+_Profile]/posts"/>
 	<link rel="publisher" href="https://plus.google.com/[Google+_Page_Profile]"/>
-'''
+```
