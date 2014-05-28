@@ -19,14 +19,14 @@ In order to easily handle this routine on every project, we gather all the right
 	<meta property="fb:admins" content="Facebook numeric ID" />
 '''
 ### Twitter
-'''
+```
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@publisher_handle">
 	<meta name="twitter:title" content="Page Title">
 	<meta name="twitter:description" content="Page description less than 200 characters">
 	<meta name="twitter:creator" content="@author_handle">
 	<meta name="twitter:image:src" content="http://www.example.com/image.html">
-'''
+```
 
 ### Pinterest
 '''html
