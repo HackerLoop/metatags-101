@@ -44,7 +44,7 @@ In order to easily handle this routine on every project, we gather all the right
 ```
 	<link rel="author" href="https://plus.google.com/[Google+_Profile]/posts"/>
 	<link rel="publisher" href="https://plus.google.com/[Google+_Page_Profile]"/>
-``
+```
 
 #How to test your metadatas
 
