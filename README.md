@@ -44,24 +44,24 @@ In order to easily handle this routine on every project, we gather all the right
 ```
 	<link rel="author" href="https://plus.google.com/[Google+_Profile]/posts"/>
 	<link rel="publisher" href="https://plus.google.com/[Google+_Page_Profile]"/>
-```
+``
 
 #How to test your metadatas
 
 Each platform has his own tool to debug your metadatas 
 
-## Facebook Debugger
+### Facebook Debugger
 
 https://developers.facebook.com/tools/debug
 
-## Twitter validation tool
+### Twitter validation tool
 
 https://dev.twitter.com/docs/cards/validation/validator
 
-## Google Structured Data Testing Tool
+### Google Structured Data Testing Tool
 
 http://www.google.com/webmasters/tools/richsnippets
 
-## Pinterest Rich Pins Validator
+### Pinterest Rich Pins Validator
 
 http://developers.pinterest.com/rich_pins/validator/
