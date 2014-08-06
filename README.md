@@ -30,13 +30,14 @@ In order to easily handle this routine on every project, we gather all the right
 	<meta name="twitter:title" content="Page Title">
 	<meta name="twitter:description" content="Page description less than 200 characters">
 	<meta name="twitter:creator" content="@author_handle">
-	<meta name="twitter:image:src" content="http://www.example.com/image.html">
+	<meta name="twitter:image:src" content="http://www.example.com/image.jpg">
 ```
 
 ### Google + / Pinterest
 ```
 	<meta itemprop="name" content="The Name or Title Here">
 	<meta itemprop="description" content="This is the page description">
+	<!-- Facebook image must be at least 600x315px -->
 	<meta itemprop="image" content="http://www.example.com/image.jpg">
 ```    
 
