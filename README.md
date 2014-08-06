@@ -30,7 +30,7 @@ In order to easily handle this routine on every project, we gather all the right
 	<meta name="twitter:title" content="Page Title">
 	<meta name="twitter:description" content="Page description less than 200 characters">
 	<meta name="twitter:creator" content="@author_handle">
-	<meta name="twitter:image:src" content="http://www.example.com/image.html">
+	<meta name="twitter:image:src" content="http://www.example.com/image.jpg">
 ```
 
 ### Google + / Pinterest
