@@ -37,6 +37,7 @@ In order to easily handle this routine on every project, we gather all the right
 ```
 	<meta itemprop="name" content="The Name or Title Here">
 	<meta itemprop="description" content="This is the page description">
+	<!-- Facebook image must be at least 600x315px -->
 	<meta itemprop="image" content="http://www.example.com/image.jpg">
 ```    
 
