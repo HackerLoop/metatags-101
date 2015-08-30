@@ -66,3 +66,7 @@ http://www.google.com/webmasters/tools/richsnippets
 ### Pinterest Rich Pins Validator
 
 http://developers.pinterest.com/rich_pins/validator/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/HackerLoop/metatags-101/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
