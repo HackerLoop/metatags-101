@@ -15,7 +15,7 @@ In order to easily handle this routine on every project, we gather all the right
 ### Facebook
 ```
 	<meta property="og:title" content="Title Here" />
-	<meta property="og:type" content="article" />
+	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://www.example.com/" />
 	<meta property="og:image" content="http://example.com/image.jpg" />
 	<meta property="og:description" content="Description Here" />
@@ -49,7 +49,7 @@ In order to easily handle this routine on every project, we gather all the right
 
 #How to test your metadatas
 
-Each platform has his own tool to debug your metadatas 
+Each platform has his own tool to debug your metadatas
 
 ### Facebook Debugger
 
@@ -69,4 +69,3 @@ http://developers.pinterest.com/rich_pins/validator/
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/HackerLoop/metatags-101/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
