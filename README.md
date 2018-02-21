@@ -57,7 +57,7 @@ https://developers.facebook.com/tools/debug
 
 ### Twitter validation tool
 
-https://dev.twitter.com/docs/cards/validation/validator
+https://cards-dev.twitter.com/validator
 
 ### Google Structured Data Testing Tool
 
