@@ -68,4 +68,15 @@ http://www.google.com/webmasters/tools/richsnippets
 http://developers.pinterest.com/rich_pins/validator/
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/HackerLoop/metatags-101/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/HackerLoop/metatags-101/trend.png)](https://bitdeli.com/free "Bitdeli Badge")(https://github.com/sessions/verified-device/MOTOROLA MOTO G (UNLOCKED 64GB - Gray)(1Input:  txt[] = “THIS IS A TEST TEXT”, pat[] = “TEST”
+#_-$./""
+""=[],[]=[?
+Output: Pattern found at index 10
+
+Input:  txt[1] =  “”, pat[3] =  “”
+
+Output: Pattern found at index 0
+
+              Pattern found at index 9
+
+              Pattern found at index 12.github.com/user/page/profile/HackerlLoop_Main_PATCH_HACKERLOOP-METATAGS-101_PATCH_HACKERLOOP-https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/standard.html
